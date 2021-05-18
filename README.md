@@ -1,5 +1,6 @@
 👋 Hi, I’m João
-- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 👀 I’m interested in opportunity to enter the Front End Development market.
+- 🌱 I’m currently learning HTML, CSS and .JavaScript
 - 📫 How to reach me in [Linkedin](https://www.linkedin.com/in/joaocosta123/)
 
 <!---
