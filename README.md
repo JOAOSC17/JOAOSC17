@@ -1,6 +1,6 @@
 👋 Hi, I’m João
 - 🌱 I’m currently learning HTML, CSS and JavaScript
-- 📫 How to reach me ...
+- 📫 How to reach me in [Linkedin](https://www.linkedin.com/in/joaocosta123/)
 
 <!---
 JOAOSC17/JOAOSC17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
