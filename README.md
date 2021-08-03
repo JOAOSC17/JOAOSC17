@@ -1,6 +1,6 @@
 👋 Hi, I’m João
-- 👀 I’m interested in opportunity to enter the Front End Development market.
-- 🌱 I’m currently learning HTML, CSS, JavaScript, ReactJS, NodeJS, React Native and Redux.
+- 👀 I’m interested in opportunity to enter the Web Development market.
+- 🌱 I’m currently learning HTML, CSS, JavaScript, ReactJS, NodeJS and Redux.
 - 📫 How to reach me in [Linkedin](https://www.linkedin.com/in/joaocosta123/)
 
 <!---
