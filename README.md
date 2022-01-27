@@ -1,7 +1,8 @@
 👋 Hi, I’m João
-- 👀 I’m interested in opportunity to enter the Web Development market.
-- 🌱 I’m currently learning HTML, CSS, JavaScript, ReactJS, NodeJS and Redux.
-- 🤔 I have interested in learning React Native, Redux e MongoDB
+I am a Front end developer passionate about the best web development technologies. I have experience with JavaScript and React. I am currently studying sql databases.
+- 👀 I have experience with JavaScript and React.
+- 🌱 I’m currently learning NodeJS, SQL Databases and Redux.
+- 🤔 I have interested in learning React Native.
 - 📫 How to reach me in [Linkedin](https://www.linkedin.com/in/joaosc17/)
 
 <!---
