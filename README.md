@@ -1,7 +1,7 @@
 👋 Hi, I’m João
-I am a Front end developer passionate about the best web development technologies. I have experience with JavaScript and React. I am currently studying sql databases.
+I am a Full Stack developer passionate about the best web development technologies. I have experience with JavaScript and React. 
 - 👀 I have experience with JavaScript and React.
-- 🌱 I’m currently learning NodeJS, SQL Databases and Redux.
+- 🌱 I have knowledge NodeJS, SQL Databases and Redux.
 - 🤔 I have interested in learning React Native.
 - 📫 How to reach me in [Linkedin](https://www.linkedin.com/in/joaosc17/)
 
