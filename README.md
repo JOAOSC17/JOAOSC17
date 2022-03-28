@@ -20,7 +20,8 @@ I am a Full Stack developer passionate about the best web development technologi
  <a href="https://twitter.com/jovicosta_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href = "mailto:costav1402@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joaosc17/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
+   <a href="https://dev.to/joaosc17" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank"></a> 
+   </div>
  
  ![Snake animation](https://github.com/JOAOSC17/JOAOSC17/raw/output/github-contribution-grid-snake.svg)
 <!---
