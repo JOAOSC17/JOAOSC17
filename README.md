@@ -1,7 +1,7 @@
 # 👋 Hi, I’m João
 I am a Full Stack developer passionate about the best web development technologies. I have experience with JavaScript and React. 
 - 👀 I have experience with JavaScript and React.
-- 🌱 I have knowledge NodeJS, SQL Databases and Redux.
+- 🌱 I have knowledge NodeJS, SQL Databases, Redux and TypeScript.
 - 🤔 I have interested in learning React Native.
  <div>
   <a href="https://github.com/JOAOSC17">
